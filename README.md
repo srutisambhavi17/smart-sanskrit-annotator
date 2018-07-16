@@ -1,4 +1,4 @@
-# smart-sanskrit-annotator
+# Smart-Sanskrit-Annotator
 Sanskrit Annotator App.
 Download the zip file and extract it to a local directory.
 
