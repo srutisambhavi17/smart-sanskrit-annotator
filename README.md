@@ -1,5 +1,5 @@
 # smart-sanskrit-annotator
-Sanskrit Annotator App Using Machine Learning.
+Sanskrit Annotator App.
 Download the zip file and extract it to a local directory.
 
 ## The modules and libraries required to run the app
